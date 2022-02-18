@@ -1,0 +1,16 @@
+.vscode
+/env
+/venv
+/wandb
+temp.py
+.idea
+__pycache__
+*/__pycache__/*
+*.pyc 
+*.so
+*.sh
+*.json
+Demo/*/*
+*.txt
+sweep_config.yaml
+run_commands.txt
